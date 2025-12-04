@@ -146,8 +146,14 @@ Replaced the earlier Alert logic:
 - Bound the API response to a Single Data Record  
 This enabled automatic retrieval of product information immediately after scanning.
 Screenshots:
-- Fig7. Mapping API response  
-- Fig7.1 Mapping API response in logic flow  
+<p align="center">
+  <img width="795" height="426" alt="image" src="https://github.com/user-attachments/assets/0092812e-a6e2-461d-bef7-61126267c115" />
+</p>
+  <p align="center"><b>Fig7. Mapping API response</b></p>  
+<p align="center">
+  <img width="800" height="208" alt="image" src="https://github.com/user-attachments/assets/083640ac-5626-4611-83ee-be856c9f1106" />
+</p>
+   <p align="center"><b>Fig7.1 Mapping API response in logic flow</b></p> 
 
 
 
