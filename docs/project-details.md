@@ -93,8 +93,10 @@ Created a simple and clean mobile UI:
 - Button: “Scan” (configured to open the device’s camera)  
 This screen serves as the core interface for initiating barcode scanning.
 Screenshot:
-- Fig 4. Mobile UI
-
+<p align="center">
+<img width="247" height="435" alt="image" src="https://github.com/user-attachments/assets/a876faf6-d5fb-4c0c-ac29-bd8677fa076d" />
+</p>
+<p align="center"><b> Fig 4. Mobile UI </b></p>  
 
   
 Step 5: Configuring Camera Access and Logic Flow
