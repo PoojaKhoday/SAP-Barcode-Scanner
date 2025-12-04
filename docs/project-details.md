@@ -205,17 +205,54 @@ Step 9: Testing the Application
 - Calorie information  
 - Product image  
 all displayed correctly  
-Screenshots: 
-- Fig9. Preview QR Code  
-- Fig9.1 Barcode to scan  
-- Fig9.2 SAP Build Apps mobile preview  
-- Fig9.3 Open Application  
-- Fig9.4 Scan button  
-- Fig9.5 Output with details  
-- Fig9.6 Successful execution 1  
-- Fig9.7 Successful execution 2  
+Screenshots:
+<p align="center">
+  <img width="694" height="450" alt="image" src="https://github.com/user-attachments/assets/0d884f5d-3e15-4776-b724-9db23281aa12" />
 
+</p>
+<p align="center"><b> Fig9. Preview QR Code </b></p> 
 
+<p align="center">
+  <img width="353" height="156" alt="image" src="https://github.com/user-attachments/assets/e223c082-6d8a-4e6b-9d2e-d81aa7b2a02d" />
+
+</p>
+<p align="center"><b>Fig9.1 Barcode to scan </b></p> 
+<p align="center">
+  <img width="355" height="632" alt="image" src="https://github.com/user-attachments/assets/8c6b6100-4d45-4a04-a7d6-f83709edcd9f" />
+
+</p>
+
+<p align="center"><b> Fig9.2 SAP Build Apps mobile preview </b></p> 
+<p align="center">
+  <img width="394" height="701" alt="image" src="https://github.com/user-attachments/assets/abdd7a7f-38fa-4462-9d9a-18986977867b" />
+
+</p>
+
+<p align="center"><b> Fig9.3 Open Application </b></p> 
+<p align="center">
+  <img width="390" height="638" alt="image" src="https://github.com/user-attachments/assets/9e64261a-1b66-4884-bf32-c8015a10d67d" />
+
+</p>
+
+<p align="center"><b> Fig9.4 Scan button </b></p> 
+<p align="center">
+  <img width="362" height="644" alt="image" src="https://github.com/user-attachments/assets/33654d21-ed12-4f53-8c46-a0b9d626511f" />
+
+</p>
+
+<p align="center"><b> Fig9.5 Output with details </b></p> 
+<p align="center">
+  <img width="311" height="632" alt="image" src="https://github.com/user-attachments/assets/d67d030e-ac85-49db-89ad-8d1dc98f1375" />
+
+</p>
+
+<p align="center"><b> Fig9.6 Successful execution 1</b></p> 
+<p align="center">
+  <img width="313" height="632" alt="image" src="https://github.com/user-attachments/assets/47304b26-d666-483a-a527-88a64ec76b16" />
+
+</p>
+
+<p align="center"><b>  Fig9.7 Successful execution 2 </b></p> 
 
 Business Value and Benefits  
 - Low Code Efficiency  
