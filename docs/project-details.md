@@ -47,7 +47,8 @@ Screenshots:
 <p align="center"><b>Fig 2.1 Mobile View</b></p>
 <p align="center">
   <img width="392" height="670" alt="image" align="center" src="https://github.com/user-attachments/assets/58eeb0d5-2585-4041-9b1e-5ed498ce135d" />
-Fig 2.2 Mobile View Screen </b></p>
+  </p>
+<p align="center"><b>Fig 2.2 Mobile View Screen </b></p>
 
 
 
