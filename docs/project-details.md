@@ -106,8 +106,17 @@ To make the Scan button functional:
 - Alert dynamically displayed the scanned barcode value  
 This validated integration with device hardware (camera).
 Screenshots:
-- Fig 5. Scan Button  
-- Fig 5.1 Button Flow Logic
+<p align="center">
+  <img width="354" height="84" alt="image" src="https://github.com/user-attachments/assets/04bdee32-c161-4161-baa6-a41f36c3cabb" />
+
+</p>
+  <p align="center"><b>Fig 5. Scan Button </b></p>  
+<p align="center">
+  ![Uploading image.png…]()
+
+</p>
+  <p align="center"><b>Fig 5.1 Button Flow Logic</b></p>  
+
 
 
 
