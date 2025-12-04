@@ -164,12 +164,36 @@ Enhanced the UI to display fetched data dynamically:
 - Image Component: Bound using:  
 data.OpenFoodFacts1.product.image_front_url
 Screenshots:
-- Fig8. Binding product record  
-- Fig8.1 Binding product output  
-- Fig8.2 Product name binding  
-- Fig8.3 Energy binding  
-- Fig8.4 Image binding  
-- Fig8.5 Expected UI  
+<p align="center">
+  <img width="662" height="535" alt="image" src="https://github.com/user-attachments/assets/f902bf8c-5f64-40af-88dd-aa5efded0a93" />
+
+</p>
+<p align="center"><b>Fig8. Binding product record</b></p> 
+<p align="center">
+  <img width="661" height="464" alt="image" src="https://github.com/user-attachments/assets/536f74ac-bab3-4fb7-bcba-531744085485" />
+
+</p>
+<p align="center"><b> Fig8.1 Binding product output </b></p> 
+<p align="center">
+  <img width="650" height="572" alt="image" src="https://github.com/user-attachments/assets/bee8b3ee-204d-4d1b-b0ca-a0cc4edb1a6c" />
+
+</p>
+<p align="center"><b> Fig8.2 Product name binding  </b></p> 
+<p align="center">
+  <img width="654" height="577" alt="image" src="https://github.com/user-attachments/assets/25251162-acd6-46f9-bf5e-2590c34ba46f" />
+
+</p>
+<p align="center"><b> Fig8.3 Energy binding  </b></p> 
+<p align="center">
+  <img width="652" height="386" alt="image" src="https://github.com/user-attachments/assets/5b9cc077-7fff-4ec1-8599-686b7773c356" />
+
+</p>
+<p align="center"><b> Fig8.4 Image binding  </b></p> 
+<p align="center">
+  <img width="358" height="607" alt="image" src="https://github.com/user-attachments/assets/69cb691d-7334-430a-8975-44f666c71bb4" />
+</p>
+<p align="center"><b> Fig8.5 Expected UI    </b></p> 
+
 
 
 
