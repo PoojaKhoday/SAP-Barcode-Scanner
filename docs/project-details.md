@@ -61,19 +61,27 @@ SAP Build Apps provides an intuitive visual builder. Key actions include:
 - Managing data entities  
 This visual builder eliminates traditional coding, enabling rapid application development.
 Screenshots:
+<p align="center">
 <img width="373" height="707" alt="image" src="https://github.com/user-attachments/assets/182dd180-12f8-435f-bc84-9141ecb0594c" />
+</p>
 <p align="center"><b>Fig 3. Core Components </b></p> 
+
+<p align="center">
 <img width="759" height="511" alt="image" src="https://github.com/user-attachments/assets/bfba6231-b1c8-4e32-a564-efda5431a118" />
-
+</p>
 <p align="center"><b>Fig 3.1 Data Binding</b></p>
+
+<p align="center">
 <img width="744" height="413" alt="image" src="https://github.com/user-attachments/assets/7e747496-9473-4e14-a894-e84fa2ae66dd" />
-
+</p>
 <p align="center"><b>Fig 3.2 Navigation</b></p> 
+<p align="center">
 <img width="696" height="187" alt="image" src="https://github.com/user-attachments/assets/323ca1b6-e22a-403e-bd5a-14110a32243b" />
-
+</p>
 <p align="center"><b>Fig 3.3 Logic Flow</b></p>  
+<p align="center">
 <img width="699" height="436" alt="image" src="https://github.com/user-attachments/assets/38431d93-d12f-4611-a95f-889f59bbe14a" />
-
+</p>
 <p align="center"><b> Fig 3.4 REST API Integration</b></p>  
 
 
