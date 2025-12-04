@@ -113,8 +113,6 @@ Screenshots:
   <p align="center"><b>Fig 5. Scan Button </b></p>  
 <p align="center">
   <img width="800" height="327" alt="image" src="https://github.com/user-attachments/assets/3ae6da45-b793-45c4-a7a8-2532cd1a48f9" />
-
-
 </p>
   <p align="center"><b>Fig 5.1 Button Flow Logic</b></p>  
 
@@ -132,6 +130,10 @@ Additional actions:
 - Successfully tested with barcode 6416453061361
 - Set schema from response for data mapping  
 Screenshot:
+<p align="center">
+  <img width="691" height="376" alt="image" src="https://github.com/user-attachments/assets/3b20b715-b274-4d5f-bc7b-76bd016fac79" />
+
+</p>
   <p align="center"><b>Fig6. Public OpenFoodFacts API</b></p>  
 
 
