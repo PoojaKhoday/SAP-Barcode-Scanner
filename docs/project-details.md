@@ -23,7 +23,7 @@ Key setup activities:
 <img width="824" height="447" alt="image" src="https://github.com/user-attachments/assets/39cdec83-5ca4-4d5d-a0d2-928d34579608" />
 
 
-Fig1.1 SAP Build Lobby
+<p align="center"><b>Fig1. SAP Build Lobby</b></p>
 
 
 
