@@ -16,9 +16,13 @@ Key setup activities:
 - Opened SAP Build Lobby through “Instances and Subscriptions”  
 - Confirmed that SAP Build Apps was available for project creation
 <img width="826" height="448" alt="image" src="https://github.com/user-attachments/assets/5f6deac1-2077-411c-878a-158cd294db78" />
+
+
 Fig1. SAP BTP Cockpit
 
 <img width="824" height="447" alt="image" src="https://github.com/user-attachments/assets/39cdec83-5ca4-4d5d-a0d2-928d34579608" />
+
+
 Fig1.1 SAP Build Lobby
 
 
