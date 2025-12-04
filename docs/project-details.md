@@ -18,7 +18,7 @@ Key setup activities:
 <img width="826" height="448" alt="image" src="https://github.com/user-attachments/assets/5f6deac1-2077-411c-878a-158cd294db78" />
 
 
-Fig1. SAP BTP Cockpit
+<p align="center"><b>Fig1. SAP BTP Cockpit</b></p>
 
 <img width="824" height="447" alt="image" src="https://github.com/user-attachments/assets/39cdec83-5ca4-4d5d-a0d2-928d34579608" />
 
