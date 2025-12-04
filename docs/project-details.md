@@ -15,7 +15,7 @@ Key setup activities:
 - Logged in to SAP BTP Cockpit  
 - Opened SAP Build Lobby through “Instances and Subscriptions”  
 - Confirmed that SAP Build Apps was available for project creation
-- <p align="center">
+<p align="center">
 <img width="826" height="448" alt="image" src="https://github.com/user-attachments/assets/5f6deac1-2077-411c-878a-158cd294db78" />
 </p>
 
@@ -36,17 +36,18 @@ Path: Create Project -> Application -> Frontend -> Web & Mobile Application
 Selected this option to create a responsive mobile friendly application.
 Switched the device preview to Mobile View for designing mobile interfaces.
 Screenshots:
+<p align="center">
 <img width="644" height="549" alt="image" align="center" src="https://github.com/user-attachments/assets/1049c27f-02b0-4eed-864f-ad7336ccd831" />
-
+</p>
 
 <p align="center"><b>Fig 2. Web & Mobile Application</b></p> 
-
+<p align="center">
   <img width="194" height="334" alt="image" align="center" src="https://github.com/user-attachments/assets/f4b32601-bb49-49dc-9d46-209594ffc1eb" />
-
+</p>
 <p align="center"><b>Fig 2.1 Mobile View</b></p>
-
+<p align="center">
   <img width="392" height="670" alt="image" align="center" src="https://github.com/user-attachments/assets/58eeb0d5-2585-4041-9b1e-5ed498ce135d" />
-
+</p>
 <p align="center"><b>Fig 2.2 Mobile View Screen </b></p>
 
 
