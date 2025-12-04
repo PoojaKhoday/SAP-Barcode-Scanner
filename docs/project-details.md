@@ -35,16 +35,16 @@ Path: Create Project -> Application -> Frontend -> Web & Mobile Application
 Selected this option to create a responsive mobile friendly application.
 Switched the device preview to Mobile View for designing mobile interfaces.
 Screenshots:
-<img width="644" height="549" alt="image" src="https://github.com/user-attachments/assets/1049c27f-02b0-4eed-864f-ad7336ccd831" />
+<img width="644" height="549" alt="image" align="center" src="https://github.com/user-attachments/assets/1049c27f-02b0-4eed-864f-ad7336ccd831" />
 
 
 <p align="center"><b>Fig 2. Web & Mobile Application</b></p> 
 
-  <img width="194" height="334" alt="image" src="https://github.com/user-attachments/assets/f4b32601-bb49-49dc-9d46-209594ffc1eb" />
+  <img width="194" height="334" alt="image" align="center" src="https://github.com/user-attachments/assets/f4b32601-bb49-49dc-9d46-209594ffc1eb" />
 
 <p align="center"><b>Fig 2.1 Mobile View</b></p>
 
-  <img width="392" height="670" alt="image" src="https://github.com/user-attachments/assets/58eeb0d5-2585-4041-9b1e-5ed498ce135d" />
+  <img width="392" height="670" alt="image" align="center" src="https://github.com/user-attachments/assets/58eeb0d5-2585-4041-9b1e-5ed498ce135d" />
 
 <p align="center"><b>Fig 2.2 Mobile View Screen </b></p>
 
