@@ -132,7 +132,8 @@ Additional actions:
 - Successfully tested with barcode 6416453061361
 - Set schema from response for data mapping  
 Screenshot:
-- Fig6. Public OpenFoodFacts API
+  <p align="center"><b>Fig6. Public OpenFoodFacts API</b></p>  
+
 
 
 
