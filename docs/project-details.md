@@ -112,7 +112,8 @@ Screenshots:
 </p>
   <p align="center"><b>Fig 5. Scan Button </b></p>  
 <p align="center">
-  ![Uploading image.png…]()
+  <img width="800" height="327" alt="image" src="https://github.com/user-attachments/assets/3ae6da45-b793-45c4-a7a8-2532cd1a48f9" />
+
 
 </p>
   <p align="center"><b>Fig 5.1 Button Flow Logic</b></p>  
