@@ -47,8 +47,7 @@ Screenshots:
 <p align="center"><b>Fig 2.1 Mobile View</b></p>
 <p align="center">
   <img width="392" height="670" alt="image" align="center" src="https://github.com/user-attachments/assets/58eeb0d5-2585-4041-9b1e-5ed498ce135d" />
-</p>
-<p align="center"><b>Fig 2.2 Mobile View Screen </b></p>
+Fig 2.2 Mobile View Screen </b></p>
 
 
 
@@ -61,6 +60,7 @@ SAP Build Apps provides an intuitive visual builder. Key actions include:
 - Managing data entities  
 This visual builder eliminates traditional coding, enabling rapid application development.
 Screenshots:
+
 - Fig 3. Core Components  
 - Fig 3.1 Data Binding  
 - Fig 3.2 Navigation  
